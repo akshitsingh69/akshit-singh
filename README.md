@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <span style="color:#00BFFF;">💻 Aspiring Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</span>
-</h3>
+</h3> 
 
 ---
 
